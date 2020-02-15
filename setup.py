@@ -30,7 +30,7 @@ TOPIC = 'Topic :: Software Development :: Libraries :: Python Modules',
 # External dependencies
 # More info https://pythonhosted.org/setuptools/setuptools.html#declaring-dependencies
 REQUIREMENTS_EXTERNAL = [
-    'requests >= '
+    'requests >= 2.22'
 ]
 
 # This is normally an empty list
